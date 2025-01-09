@@ -1,0 +1,18 @@
+[
+    {
+      "role": "Analista programador computacional",
+      "organisation": "Duoc UC",
+      "startDate": "Marzo, 2019",
+      "endDate": "Agosto, 2021",
+      "experiences": ["Graduado con honores"],
+      "imageSrc": "history/Duoc-UC.png"
+    },
+    {
+      "role": "Front-end Developer",
+      "organisation": "PUCV/CONEDUCA",
+      "startDate": "Abril, 2022",
+      "endDate": "Actualidad",
+      "experiences": ["Desarrollo de más de 5 aplicaciones web", " Javascript Vanilla + Bootstrap 4.0 y superior", "Revisión de maquetas en Figma", "SCRUM", "Laravel y Django"],
+      "imageSrc": "history/PUCV.png"
+    }
+  ]
